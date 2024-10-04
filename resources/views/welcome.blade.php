@@ -43,35 +43,42 @@
             <a href="#"><i class='bx bxl-whatsapp bx-md' ></i></a>
             <a href="#"><i class='bx bxl-youtube bx-md' ></i></a>
         </div>
-        <div class="picture" style="background-image: url('{{ asset('images/picture.jpg') }}');" alt="gambar Wahid"></div>
+        <div class="picture" style="background-image: url('{{ asset('images/picture-wahid.png') }}');" alt="gambar profile"></div>
     </section>
 
     <section id="about">
-        <div class="container-service">
-            
+        <div class="container-main">
+            <div class="box-picture">
+                <img src="images/picture-wahid.png" alt="">
+            </div>
+            <div class="content">
+                <h2>About Me</h2>
+                <p>Saya adalah mahasiswa Teknologi Informasi dengan minat dalam [sebutkan area spesialisasi]. Saya mahir dalam [sebutkan bahasa pemrograman atau keterampilan TI lainnya], dan memiliki pengalaman dalam [sebutkan proyek atau aktivitas relevan]. Saya ingin terus belajar dan berkembang dalam lingkungan TI yang dinamis. Tujuan saya adalah [sebutkan tujuan karir atau pendidikan]</p>
+            </div>
         </div>
 
     </section>
 
-    <section id="experience">
-        <h2>Check My Skills And Work Experiences</h2>
-        <div class="work-experience">
-            <h3>Work Experiences</h3>
-            <p>2012 - 2013: Web Designer at SocialCo</p>
-            <p>2012 - 2015: UI/UX Designer at Mindtech Startup</p>
-            <p>2015 - Present: Web Designer at Balint Media</p>
-        </div>
-        <div class="education">
-            <h3>Education</h3>
-            <p>2004 - 2008: Royal College Of Art - London</p>
-            <p>2008 - 2012: Singapore University Of Technology & Design - Singapore</p>
-        </div>
-        <div class="skills">
-            <h3>My Skills & Advantage</h3>
-            <p>Figma: 95%</p>
-            <p>Adobe Photoshop / Illustrator: 91%</p>
-            <p>Elementor: 90%</p>
-            <p>WordPress: 92%</p>
+    <section id="resume">
+        <h2>My Resume</h2>
+        <div class="container-resume">
+            <div class="education">
+                <h3>Education</h3>
+                <p>University's Terbuka, Information Systems major</p>
+            </div>
+            <div class="work-experience">
+                <h3>Work Experiences</h3>
+                <p>2012 - 2013: Web Designer at SocialCo</p>
+                <p>2012 - 2015: UI/UX Designer at Mindtech Startup</p>
+                <p>2015 - Present: Web Designer at Balint Media</p>
+            </div>
+            <div class="skills">
+                <h3>My Skills & Advantage</h3>
+                <p>Ms.Office</p>
+                <p>Adobe Photoshop / CorelDraw: 91%</p>
+                <p>Creative Desgin : 90%</p>
+                <p>WordPress: 92%</p>
+            </div>
         </div>
     </section>
     <section id="projects">
