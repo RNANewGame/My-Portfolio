@@ -43,7 +43,7 @@
             <a href="#"><i class='bx bxl-whatsapp bx-md' ></i></a>
             <a href="#"><i class='bx bxl-youtube bx-md' ></i></a>
         </div>
-        <div class="picture" style="background-image: url('{{ asset('images/picture-wahid.png') }}');" alt="gambar profile"></div>
+        <div class="picture" style="background-image: url('{{ asset('images/picture.png') }}');" alt="gambar profile"></div>
     </section>
 
     <section id="about">
