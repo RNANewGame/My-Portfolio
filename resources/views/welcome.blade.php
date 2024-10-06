@@ -49,7 +49,7 @@
     <section id="about">
         <div class="container-main">
             <div class="box-picture">
-                <img src="images/picture.png" alt="">
+                <img src="images/picture-wahid.png" alt="">
             </div>
             <div class="content">
                 <h2>About Me</h2>
