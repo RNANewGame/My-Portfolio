@@ -17,7 +17,6 @@
                 <ul class="nav-links">
                     <li><a href="#home">Home</a></li>
                     <li><a href="#about">About Me</a></li>
-                    <li><a href="#resume">Resume</a></li>
                     <li><a href="#Portfolio">Portfolio</a></li>
                     <li><a href="#blog">Blog</a></li>
                     <li><a href="#contact">Contact</a></li>
@@ -47,20 +46,14 @@
     </section>
 
     <section id="about">
-        <div class="container-main">
-            <div class="box-picture">
-                <img src="images/picture-wahid.png" alt="">
-            </div>
-            <div class="content">
+            <div class="about-content">
                 <h2>About Me</h2>
                 <p>Saya adalah mahasiswa Teknologi Informasi dengan minat dalam [sebutkan area spesialisasi]. Saya mahir dalam [sebutkan bahasa pemrograman atau keterampilan TI lainnya], dan memiliki pengalaman dalam [sebutkan proyek atau aktivitas relevan]. Saya ingin terus belajar dan berkembang dalam lingkungan TI yang dinamis. Tujuan saya adalah [sebutkan tujuan karir atau pendidikan]</p>
             </div>
-        </div>
-
     </section>
 
-    <section id="resume">
-        <h2>My Resume</h2>
+    <section id="">
+        <h2>Education & Skill</h2>
         <div class="container-resume">
             <div class="education">
                 <h3>Education</h3>
